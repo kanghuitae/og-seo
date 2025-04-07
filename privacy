@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>SEO & OG 태그 분석기 - 개인정보 처리방침</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      color: #333;
+    }
+    h1 {
+      color: #1a73e8;
+      margin-bottom: 20px;
+    }
+    h2 {
+      color: #202124;
+      margin-top: 30px;
+      margin-bottom: 15px;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+  <h1>SEO & OG 태그 분석기 - 개인정보 처리방침</h1>
+  
+  <p>최종 업데이트: 2023년 4월 7일</p>
+  
+  <h2>1. 수집하는 정보</h2>
+  <p>'SEO & OG 태그 분석기'는 사용자의 개인정보를 수집하지 않습니다. 본 확장 프로그램은 사용자가 방문한 웹페이지의 SEO 정보와 OG 태그 정보만을 분석하며, 이 정보는 사용자의 기기에만 표시되고 외부로 전송되지 않습니다.</p>
+  
+  <h2>2. 데이터 처리 방식</h2>
+  <p>본 확장 프로그램은 다음과 같은 방식으로 작동합니다:</p>
+  <ul>
+    <li>현재 열려있는 웹페이지의 메타 태그, 헤더 구조, 이미지 등의 정보를 분석합니다.</li>
+    <li>분석된 정보는 팝업 창에 표시됩니다.</li>
+    <li>모든 분석은 사용자의 기기에서 로컬로 이루어지며, 어떠한 데이터도 외부 서버로 전송되지 않습니다.</li>
+    <li>분석된 정보는 사용자가 확장 프로그램을 닫으면 메모리에서 제거됩니다.</li>
+  </ul>
+  
+  <h2>3. 권한 사용</h2>
+  <p>본 확장 프로그램은 다음과 같은 권한을 요청합니다:</p>
+  <ul>
+    <li><strong>activeTab</strong>: 현재 활성화된 탭의 웹페이지를 분석하기 위해 필요합니다.</li>
+    <li><strong>scripting</strong>: 웹페이지 내의 요소를 분석하기 위해 필요합니다.</li>
+    <li><strong>&lt;all_urls&gt;</strong>: 모든 웹사이트에서 분석을 수행하기 위해 필요합니다.</li>
+  </ul>
+  
+  <h2>4. 제3자 서비스</h2>
+  <p>본 확장 프로그램은 어떠한 제3자 서비스나 분석 도구도 사용하지 않습니다.</p>
+  
+  <h2>5. 변경사항</h2>
+  <p>본 개인정보 처리방침은 필요에 따라 업데이트될 수 있습니다. 중요한 변경사항이 있을 경우, 확장 프로그램 업데이트 시 안내문을 통해 사용자에게 알립니다.</p>
+  
+  <h2>6. 연락처</h2>
+  <p>본 확장 프로그램과 관련하여 문의사항이 있으시면 다음 연락처로 문의해주세요: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+</body>
+</html> 
